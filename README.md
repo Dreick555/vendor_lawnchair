@@ -1,6 +1,7 @@
 use this flag:
 
 ```
+# lawnchair
 $(call inherit-product, vendor/lawnchair/lawnchair.mk )
 ```
 ---
